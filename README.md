@@ -4,7 +4,7 @@ This repository contains my personal portfolio website for the Week 3 Portfolio 
 
 ## Required Sections
 
-- **Personal Statement** — concise professional introduction
+- **Personal Statement** — Rutgers Finance and Statistics student pursuing a career in quantitative finance and trading, with interests in financial markets, investment analysis, and data-driven decision making.
 - **Skills** — finance, statistics, programming, and data-analysis skills
 - **Projects** — three selected projects with descriptions and references
 
